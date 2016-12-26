@@ -1,5 +1,5 @@
 // swiper
-
+//  这句话是用nother分之改的
 <div class="swiper-container">
   <div class="swiper-wrapper">
     <div class="swiper-slide blue-slide">slider1</div>
